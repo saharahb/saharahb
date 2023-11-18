@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Saharah Bains, this is a test branch
+### Hi there 👋 my name is Saharah Bains, this is the main branch
 
 <!--
 **saharahb/saharahb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
